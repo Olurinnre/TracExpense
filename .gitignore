@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Runtime data (vector DB + uploaded PDFs)
+data/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
